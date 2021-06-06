@@ -1,7 +1,11 @@
 <template>
   <div>
     <Nuxt />
-  </div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.9/jquery.mask.min.js'></script>
+</div>
+
 </template>
 
 <style>
