@@ -1,18 +1,18 @@
 <template> 
 <div>
 <Header />
-<Header-instagram/>
-<Cards-Instagram/>
+<Currency />
 </div>
 </template>
 
 <script>
+
 </script>
 
 <style scoped>
 
 div{
-  height: 100%;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -22,5 +22,9 @@ div{
 
   background-repeat: no-repeat;
 }
-
+@media only screen and (max-width: 883px) {
+div{
+  height: 100%;
+}
+}
 </style>

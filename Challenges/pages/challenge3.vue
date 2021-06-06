@@ -6,9 +6,6 @@
 </template>
 
 <script>
-import HeaderInstagram from '../components/Header-Instagram.vue';
-export default {
-  components: { HeaderInstagram },};
 </script>
 
 <style scoped>
