@@ -6,7 +6,7 @@
       <nav>
         <ul class="flex flex-col md:flex-row items-center">
           <li class="m-4"><nuxt-link to="/challenge1" class="p-4">Desafio 1</nuxt-link></li>
-          <li class="m-4"><nuxt-link to="" class="p-4">Desafio 2</nuxt-link></li>
+          <li class="m-4"><nuxt-link to="/challenge2" class="p-4">Desafio 2</nuxt-link></li>
           <li class="m-4"><nuxt-link to="" class="p-4">Desafio 3</nuxt-link></li>
           <li class="m-4"><nuxt-link to="" class="p-4">Desafio 4</nuxt-link></li>
         </ul>
